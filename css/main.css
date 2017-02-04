@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  background-color: #eebb44;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+.subheading {
+  margin-top: 8px;
+}
+
+main {
+  margin-top: 40px;
+}
+
+.card {
+  border: 1px solid #e5e5e5;
+  margin-bottom: 20px;
+}
+
+img {
+  height: auto;
+  width: 100%;
+}
+
+.bio {
+  padding: 20px;
+}
+
+.bio h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.bio p {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
